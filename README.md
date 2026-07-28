@@ -24,3 +24,9 @@ ollama pull qwen3.5:4b
 ollama pull nomic-embed-text
 ```
 Then run `docker compose up --build`. Compose reaches host Ollama through `host.docker.internal:11434`; configure `OLLAMA_BASE_URL` and the optional `OLLAMA_API_KEY` in `.env` if required by your Ollama proxy.
+
+<img width="1280" height="720" alt="1784814952119" src="https://github.com/user-attachments/assets/d5ae2a16-19bf-4207-8676-59be3a30fbf5" />
+
+<img width="1280" height="720" alt="1784814952428" src="https://github.com/user-attachments/assets/83a0e4e5-dc55-4b79-9d55-0463e39cffc8" />
+
+<img width="1280" height="720" alt="1784814952292" src="https://github.com/user-attachments/assets/015c6675-304c-4322-8394-910303cf5734" />
