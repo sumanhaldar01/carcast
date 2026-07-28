@@ -1,0 +1,1 @@
+{"name":"carcast-web","version":"1.0.0","type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build","preview":"vite preview"},"dependencies":{"@vitejs/plugin-react":"latest","vite":"latest","react":"latest","react-dom":"latest"},"devDependencies":{},"packageManager":"npm@12.0.1","engines":{"node":">=20","npm":"12.0.1"}}

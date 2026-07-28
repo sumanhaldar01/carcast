@@ -1,0 +1,11 @@
+# Environment
+.env
+*.env.local
+# Dependencies and builds
+**/node_modules
+**/dist
+# IDE / OS
+.DS_Store
+.vscode
+# Runtime
+*.log
