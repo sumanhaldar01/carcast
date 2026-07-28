@@ -1,5 +1,5 @@
 # CarCast
-A responsive demo storefront for die-cast cars and collectible toys. It has JWT login, persistent carts, a deliberately **demo-only** payment flow, and printable invoice generation.
+A responsive demo E-commerce for die-cast cars and collectible toys. It has JWT login, persistent carts, a deliberately **demo-only** payment flow, and printable invoice generation.
 
 ## Run locally
 1. Install Docker Desktop.
